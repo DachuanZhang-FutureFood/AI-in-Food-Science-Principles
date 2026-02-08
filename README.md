@@ -23,6 +23,8 @@ As a result, many AI models demonstrate promising performance on paper but fail 
 
 <img width="1724" height="422" alt="image" src="https://github.com/user-attachments/assets/1d1ea3fc-6250-4dd1-8865-fa2c885cc81f" />
 
+Fig. 2. Evaluation of AI models and databases for food flavor chemicals. See the article for more details. https://www.sciencedirect.com/science/article/abs/pii/S092422442500408X
+
 ---
 
 ## Core Message
