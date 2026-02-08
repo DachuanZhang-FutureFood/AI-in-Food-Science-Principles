@@ -19,8 +19,9 @@ Key limitations repeatedly observed in the field include:
 - Weak benchmarking and unfair model comparison
 - Minimal experimental or real-world validation
 
-As a result, many AI models demonstrate promising performance on paper but fail to translate into **reusable tools or practical applications**  [oai_citation:1‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+As a result, many AI models demonstrate promising performance on paper but fail to translate into **reusable tools or practical applications**.
 
+<img width="1724" height="422" alt="image" src="https://github.com/user-attachments/assets/1d1ea3fc-6250-4dd1-8865-fa2c885cc81f" />
 
 ---
 
@@ -29,7 +30,7 @@ As a result, many AI models demonstrate promising performance on paper but fail 
 > **AI will not advance food science by scale alone.  
 > Progress requires domain-aware models, just evaluation, and robust data standards.**
 
-This perspective argues that food science presents **unique challenges** for AI, as food systems involve complex molecular interactions, processing effects, regulatory constraints, and cultural contexts that cannot be captured by generic models alone  [oai_citation:2‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+This perspective argues that food science presents **unique challenges** for AI, as food systems involve complex molecular interactions, processing effects, regulatory constraints, and cultural contexts that cannot be captured by generic models alone.
 
 ---
 
