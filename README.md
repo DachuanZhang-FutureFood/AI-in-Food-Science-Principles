@@ -53,7 +53,7 @@ AI models in food science must incorporate:
 - Safety, nutrition, and sustainability constraints  
 - Cultural and regional food contexts  
 
-Without domain knowledge, AI risks producing results that are statistically valid but scientifically or practically meaningless  [oai_citation:3‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+Without domain knowledge, AI risks producing results that are statistically valid but scientifically or practically meaningless.
 
 ---
 
@@ -65,7 +65,7 @@ A large proportion of published food AI models:
 - Lack accessible data or code  
 - Are not experimentally validated  
 
-This perspective highlights the need for **open science practices**, fair benchmarking, and rigorous comparison against prior work to ensure meaningful progress  [oai_citation:4‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+This perspective highlights the need for **open science practices**, fair benchmarking, and rigorous comparison against prior work to ensure meaningful progress.
 
 ---
 
@@ -76,7 +76,7 @@ Unlike fields such as protein structure prediction (e.g., CASP), food science la
 - Gold-standard benchmark datasets  
 - Community-driven evaluation initiatives  
 
-Establishing shared benchmarks is essential to distinguish real methodological advances from incremental or redundant studies  [oai_citation:5‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+Establishing shared benchmarks is essential to distinguish real methodological advances from incremental or redundant studies.
 
 ---
 
@@ -89,7 +89,7 @@ AI models should be validated through:
 - Independent datasets  
 - Real-world or industrial use cases  
 
-Validation bridges the gap between **computational promise and real food systems**  [oai_citation:6‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+Validation bridges the gap between **computational promise and real food systems**.
 
 ---
 
@@ -103,7 +103,7 @@ Challenges include:
 - Inconsistent metadata and reporting standards  
 - Geographic and cultural biases in available data  
 
-The perspective calls for **robust data standards, interoperable formats, and shared infrastructure** to support scalable and reliable AI development  [oai_citation:7‡1-s2.0-S092422442500408X-main (5).pdf](sediment://file_000000005224720691fb99a8421c5f9c).
+The perspective calls for **robust data standards, interoperable formats, and shared infrastructure** to support scalable and reliable AI development.
 
 ---
 
